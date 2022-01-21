@@ -1,0 +1,18 @@
+.card {
+    width: 35em;
+    height: 45em;
+}
+
+div.card-body {
+    /* the below puts the card in the center */
+    margin: auto;
+    padding: 10px;
+    /* the below will allow scrolling w/in div/class/card even when max_height is exceeded. 
+    max-height: 75%;
+    overflow-x:auto;  */
+}
+
+button {
+    border-color: coral;
+    border-radius: 10%;
+}
