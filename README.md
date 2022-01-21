@@ -1,4 +1,4 @@
-# Rev-Reimburse (Aimen Altaiyeb, Dave Peruginim Tareeq Hamilton and Gloria Johnston
+# P2 Rev-Reimburse (Aimen Altaiyeb, Dave Perugini, Tareeq Hamilton, and Gloria Johnston)
 
 - Project One: 
 -   employee submitts reimbursement request
